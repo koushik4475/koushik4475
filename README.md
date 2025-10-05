@@ -104,8 +104,10 @@ me.say_hi()
 
 <picture>
   <source media="(max-width: 768px)" srcset="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-  <img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="display: block; margin: 0 auto 20px auto;" />
 </picture>
+
+<div class="mobile-stack">
 
 - 🤖 Advanced **TensorFlow** & **PyTorch** for deep learning
 - 🔧 Backend optimization with **PHP** & **MySQL** 
@@ -113,6 +115,8 @@ me.say_hi()
 - 📱 Cross-platform mobile development
 - 🏗️ **System Design** & **Distributed Systems**
 - ⚡ **Concurrency** & performance optimization
+
+</div>
 
 <br clear="both">
 
@@ -332,12 +336,19 @@ me.say_hi()
 
 ## 💡 Fun Facts
 
-<img align="right" alt="Fun" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<picture>
+  <source media="(max-width: 768px)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" alt="Fun" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="display: block; margin: 0 auto 20px auto;" />
+</picture>
+
+<div class="mobile-stack">
 
 🛡️ **Ethical Hacking Enthusiast** – Exploring Kali Linux & penetration testing  
 🏋️ **Fitness Buff** – Regular gym-goer maintaining peak performance  
 🏸 **Badminton Player** – Recreational sports for work-life balance  
 🎬 **Movie Inspiration** – Visio-Nexus UI inspired by Mission: Impossible
+
+</div>
 
 <br clear="both">
 
