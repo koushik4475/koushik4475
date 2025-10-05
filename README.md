@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5082ceadaff5bdc3d2d08d3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 I'm a **Computer Science & Design** student at Mysore University with a passion for building intelligent, scalable solutions. Currently working as a Full Stack Developer at **VSG Software Solutions**, I specialize in **AI/ML**, **web development**, **cybersecurity**, and **cross-platform applications**.
 
@@ -102,7 +102,7 @@ me.say_hi()
 
 ## 🌱 Currently Learning
 
-<img align="right" alt="Learning" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🤖 Advanced **TensorFlow** & **PyTorch** for deep learning
 - 🔧 Backend optimization with **PHP** & **MySQL** 
@@ -119,7 +119,7 @@ me.say_hi()
 
 ## 🏆 Featured Projects
 
-<img align="right" alt="AI" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="AI" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJoZGQ4ZDJnNnBxaXN0ZnBzYnVkYXY5N2J6Y2U5YmJocXpwcmZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 ### 🤖 [Visio-Nexus: AI Criminal Detection System](https://visio-nexus.netlify.app)
 *Mission: Impossible-inspired surveillance system*
@@ -251,7 +251,7 @@ me.say_hi()
 
 ## 💡 Fun Facts
 
-<img align="right" alt="Fun" width="300" src="https://media1.tenor.com/m/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Fun" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🛡️ **Ethical Hacking Enthusiast** – Exploring Kali Linux & penetration testing  
 🏋️ **Fitness Buff** – Regular gym-goer maintaining peak performance  
