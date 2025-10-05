@@ -236,13 +236,13 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/koushik4475">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=koushik4475&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 
-<a href="https://github.com/koushik4475">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
-</a>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=koushik4475&custom_title=Koushik's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true" alt="Contribution Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=koushik4475&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
