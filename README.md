@@ -236,13 +236,22 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/koushik4475">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
 </a>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=koushik4475&custom_title=Koushik's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true" alt="Contribution Graph" />
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=koushik4475&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<a href="https://github.com/koushik4475">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" style="max-width: 100%; height: auto;" />
+</a>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=koushik4475&custom_title=Koushik's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true" alt="Contribution Graph" style="max-width: 100%; height: auto;" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=koushik4475&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
 
 </div>
 
