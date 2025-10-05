@@ -20,6 +20,8 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 I'm a **Computer Science & Design** student at Mysore University with a passion for building intelligent, scalable solutions. Currently working as a Full Stack Developer at **VSG Software Solutions**, I specialize in **AI/ML**, **web development**, **cybersecurity**, and **cross-platform applications**.
 
 ```python
@@ -100,6 +102,8 @@ me.say_hi()
 
 ## 🌱 Currently Learning
 
+<img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 - 🤖 Advanced **TensorFlow** & **PyTorch** for deep learning
 - 🔧 Backend optimization with **PHP** & **MySQL** 
 - 🛡️ Ethical hacking with **Kali Linux**
@@ -107,11 +111,15 @@ me.say_hi()
 - 🏗️ **System Design** & **Distributed Systems**
 - ⚡ **Concurrency** & performance optimization
 
+<br clear="both">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 🏆 Featured Projects
+
+<img align="right" alt="AI" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJoZGQ4ZDJnNnBxaXN0ZnBzYnVkYXY5N2J6Y2U5YmJocXpwcmZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 ### 🤖 [Visio-Nexus: AI Criminal Detection System](https://visio-nexus.netlify.app)
 *Mission: Impossible-inspired surveillance system*
@@ -119,6 +127,8 @@ me.say_hi()
 - ⚡ **3.5x speedup** (1.27 min → 22 sec) using multicore processing
 - 🔧 **Tech:** Python, OpenCV, NumPy, SQLite3, Tkinter
 - 🎯 **Features:** Real-time detection, criminal registration, email alerts
+
+<br clear="both">
 
 ### 🌆 Green-Pulse – Smart City Waste Management
 *Hack Kshetra National Hackathon Project*
@@ -241,10 +251,14 @@ me.say_hi()
 
 ## 💡 Fun Facts
 
+<img align="right" alt="Fun" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 🛡️ **Ethical Hacking Enthusiast** – Exploring Kali Linux & penetration testing  
 🏋️ **Fitness Buff** – Regular gym-goer maintaining peak performance  
 🏸 **Badminton Player** – Recreational sports for work-life balance  
 🎬 **Movie Inspiration** – Visio-Nexus UI inspired by Mission: Impossible
+
+<br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
