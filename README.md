@@ -102,30 +102,17 @@ me.say_hi()
 
 ## 🌱 Currently Learning
 
-<img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<picture>
+  <source media="(max-width: 768px)" srcset="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</picture>
 
-<div align="left">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🧠 **Advanced Technologies**
 - 🤖 Advanced **TensorFlow** & **PyTorch** for deep learning
 - 🔧 Backend optimization with **PHP** & **MySQL** 
 - 🛡️ Ethical hacking with **Kali Linux**
-
-</td>
-<td width="50%" valign="top">
-
-🚀 **Architecture & Performance**
 - 📱 Cross-platform mobile development
 - 🏗️ **System Design** & **Distributed Systems**
 - ⚡ **Concurrency** & performance optimization
-
-</td>
-</tr>
-</table>
-</div>
 
 <br clear="both">
 
