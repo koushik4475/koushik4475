@@ -1,17 +1,23 @@
-# 👋 Hey there, I'm Koushik HY (@koushik4475)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Koushik HY (@koushik4475)
 
 <div align="center">
   
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Smart+Solutions+with+AI+%26+Web+Tech;Open+Source+Enthusiast+%7C+Hackathon+Winner" alt="Typing SVG" />
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://koushikhy.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushikhy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koushik4475)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushik4475@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
 ---
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 I'm a **Computer Science & Design** student at Mysore University with a passion for building intelligent, scalable solutions. Currently working as a Full Stack Developer at **VSG Software Solutions**, I specialize in **AI/ML**, **web development**, **cybersecurity**, and **cross-platform applications**.
 
@@ -35,9 +41,15 @@ me = Developer()
 me.say_hi()
 ```
 
+<br clear="both">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 💻 Tech Stack & Skills
+
+<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,9 +89,15 @@ me.say_hi()
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 🌱 Currently Learning & Exploring
+
+<img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🤖 Advanced AI frameworks: **TensorFlow** & **PyTorch** for deep learning
 - 🔧 Backend optimization with **PHP** & **MySQL** 
@@ -88,16 +106,24 @@ me.say_hi()
 - 🏗️ **System Design** & **Distributed Systems** architecture
 - ⚡ **Concurrency** & multicore processing for performance optimization
 
+<br clear="both">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 🏆 Featured Projects
 
 ### 🤖 [Visio-Nexus: Hybrid AI Criminal Detection System](https://visio-nexus.netlify.app)
+<img align="right" alt="AI" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJoZGQ4ZDJnNnBxaXN0ZnBzYnVkYXY5N2J6Y2U5YmJocXpwcmZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
+
 > Mission: Impossible-inspired surveillance system with offline & online detection modes
 
 - Achieved **3.5x speedup** (1.27 min → 22 sec) using multicore processing & threading
 - Built with **Python, OpenCV, NumPy, SQLite3, PIL, Tkinter**
 - Features: Real-time detection, criminal registration, automated email alerts
+
+<br clear="both">
 
 ### 🌆 Green-Pulse – Smart City Waste Management
 > 24-hour Hack Kshetra National Hackathon Project
@@ -116,6 +142,8 @@ me.say_hi()
 - Integrated survey system for user feedback
 - Built with **HTML, CSS, JavaScript, PHP, MySQL**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 💼 Professional Experience
@@ -132,29 +160,68 @@ me.say_hi()
 
 ## 🎯 Core Competencies
 
-- **Data Structures & Algorithms** | **Object-Oriented Design**
-- **System Design** | **Distributed Systems** | **Concurrency**
-- **Agile Development** | **Problem Solving**
-- **Performance Optimization** | **Scalable Architecture**
+<div align="center">
+
+```mermaid
+mindmap
+  root((Koushik HY))
+    Development
+      Data Structures & Algorithms
+      Object-Oriented Design
+      System Design
+      Distributed Systems
+    Technologies
+      AI/ML
+      Web Development
+      Mobile Apps
+      Cybersecurity
+    Soft Skills
+      Problem Solving
+      Agile Development
+      Team Collaboration
+      Performance Optimization
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 🤝 Open to Collaborate On
 
-- 🤖 **AI/ML Applications** - Computer vision, NLP, predictive models
-- 🏙️ **Smart City Solutions** - IoT, automation, urban tech innovations
-- 🔐 **Cybersecurity Tools** - Ethical hacking utilities, security frameworks
-- 🌐 **Open-Source Projects** - Contributing to impactful community projects
-- 📱 **Mobile Applications** - Cross-platform Android/iOS development
+<div align="center">
+
+| 🤖 AI/ML Applications | 🏙️ Smart City Solutions |
+|:---:|:---:|
+| Computer vision, NLP, predictive models | IoT, automation, urban tech innovations |
+
+| 🔐 Cybersecurity Tools | 🌐 Open-Source Projects |
+|:---:|:---:|
+| Ethical hacking utilities, security frameworks | Contributing to impactful community projects |
+
+| 📱 Mobile Applications |
+|:---:|
+| Cross-platform Android/iOS development |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 🏅 Achievements & Recognition
 
-- 🎯 Selected for **Hack Kshetra National Hackathon** at VVCE, Mysore
-- 💻 Competed in **Infothon 3.0 National Hackathon**
-- 🥈 **2nd Place** – University SOE Treasure Hunt
-- 🎓 **CGPA: 7.9** – BE in Computer Science & Design
+<div align="center">
+
+🎯 **Selected for Hack Kshetra National Hackathon** at VVCE, Mysore  
+💻 **Competed in Infothon 3.0 National Hackathon**  
+🥈 **2nd Place** – University SOE Treasure Hunt  
+🎓 **CGPA: 7.9** – BE in Computer Science & Design
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -162,15 +229,27 @@ me.say_hi()
 
 <div align="center">
 
-| Platform | Contact |
-|----------|---------|
-| 📧 **Email** | [koushik4475@gmail.com](mailto:koushik4475@gmail.com) |
-| 📱 **Phone** | [+91 96209 68968](tel:+919620968968) |
-| 🌐 **Portfolio** | [koushikhy.netlify.app](https://koushikhy.netlify.app) |
-| 💼 **LinkedIn** | [Koushik HY](https://www.linkedin.com/in/koushikhy) |
-| 💻 **GitHub** | [@koushik4475](https://github.com/koushik4475) |
+<a href="mailto:koushik4475@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="tel:+919620968968">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://koushikhy.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/koushikhy">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/koushik4475">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**📧 Email:** koushik4475@gmail.com | **📱 Phone:** +91 96209 68968
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -178,28 +257,38 @@ me.say_hi()
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushik4475&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushik4475&theme=radical&hide_border=true&background=0D1117)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=koushik4475&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 💡 Fun Facts
+
+<img align="right" alt="Fun" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🛡️ **Ethical Hacking Enthusiast** – Exploring Kali Linux & penetration testing
 - 🏋️ **Fitness Buff** – Regular gym-goer maintaining physical & mental health
 - 🏸 **Badminton Player** – Recreational sports for work-life balance
 - 🎬 **Movie Inspiration** – Visio-Nexus UI inspired by Mission: Impossible
 
+<br clear="both">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 <div align="center">
-  
+
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=koushik4475&color=blueviolet&style=for-the-badge)
 
