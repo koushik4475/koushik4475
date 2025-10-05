@@ -102,16 +102,28 @@ me.say_hi()
 
 ## 🌱 Currently Learning
 
-<img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
+🧠 **Advanced Technologies**
 - 🤖 Advanced **TensorFlow** & **PyTorch** for deep learning
 - 🔧 Backend optimization with **PHP** & **MySQL** 
 - 🛡️ Ethical hacking with **Kali Linux**
+
+</td>
+<td width="50%" valign="top">
+
+🚀 **Architecture & Performance**
 - 📱 Cross-platform mobile development
 - 🏗️ **System Design** & **Distributed Systems**
 - ⚡ **Concurrency** & performance optimization
 
-<br clear="both">
+</td>
+</tr>
+</table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -119,33 +131,64 @@ me.say_hi()
 
 ## 🏆 Featured Projects
 
-<img align="right" alt="AI" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJoZGQ4ZDJnNnBxaXN0ZnBzYnVkYXY5N2J6Y2U5YmJocXpwcmZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 [Visio-Nexus: AI Criminal Detection System](https://visio-nexus.netlify.app)
+### 🤖 [Visio-Nexus: AI Criminal Detection](https://visio-nexus.netlify.app)
 *Mission: Impossible-inspired surveillance system*
 
-- ⚡ **3.5x speedup** (1.27 min → 22 sec) using multicore processing
-- 🔧 **Tech:** Python, OpenCV, NumPy, SQLite3, Tkinter
-- 🎯 **Features:** Real-time detection, criminal registration, email alerts
+⚡ **3.5x speedup** (1.27 min → 22 sec) using multicore processing
 
-<br clear="both">
+🔧 **Tech:** Python, OpenCV, NumPy, SQLite3, Tkinter
 
-### 🌆 Green-Pulse – Smart City Waste Management
-*Hack Kshetra National Hackathon Project*
+🎯 **Features:** Real-time detection, criminal registration, email alerts
 
-- 🤖 AI-powered public interaction system
-- 🗺️ **Tech:** Django, TomTom API, Tawk.to AI
-- ♻️ Real-time waste management solution
+</td>
+<td width="50%" valign="top">
 
-### 🔐 Android Cipher – Encryption App
-- 🔒 Secure **Blowfish Algorithm** encryption
-- 📱 Cross-platform mobile application
-- 🔑 Custom key-based decryption
+### 🌆 Green-Pulse
+*Smart City Waste Management*
 
-### 🗺️ Goo-India – Travel Platform
-- 🌐 Full-stack travel application
-- 📊 Integrated survey system
-- 💻 **Tech:** HTML, CSS, JavaScript, PHP, MySQL
+🏆 **Hack Kshetra National Hackathon Project**
+
+🤖 AI-powered public interaction system
+
+🗺️ **Tech:** Django, TomTom API, Tawk.to AI
+
+♻️ Real-time waste management solution
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Android Cipher
+*Encryption App*
+
+🔒 Secure **Blowfish Algorithm** encryption
+
+📱 Cross-platform mobile application
+
+🔑 Custom key-based decryption
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ Goo-India
+*Travel Platform*
+
+🌐 Full-stack travel application
+
+📊 Integrated survey system
+
+💻 **Tech:** HTML, CSS, JavaScript, PHP, MySQL
+
+</td>
+</tr>
+</table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -215,15 +258,47 @@ me.say_hi()
 
 ---
 
-## 📫 Get In Touch
+## 📬 Let's Connect
 
 <div align="center">
 
-📧 **Email:** [koushik4475@gmail.com](mailto:koushik4475@gmail.com)  
-📱 **Phone:** [+91 96209 68968](tel:+919620968968)  
-🌐 **Portfolio:** [koushikhy.netlify.app](https://koushikhy.netlify.app)  
-💼 **LinkedIn:** [Koushik HY](https://www.linkedin.com/in/koushikhy)  
-💻 **GitHub:** [@koushik4475](https://github.com/koushik4475)
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📧 Email
+[koushik4475@gmail.com](mailto:koushik4475@gmail.com)
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 Portfolio
+[koushikhy.netlify.app](https://koushikhy.netlify.app)
+
+</td>
+<td align="center" width="33%">
+
+### 📱 Phone
+[+91 96209 68968](tel:+919620968968)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushikhy)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koushik4475)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://koushikhy.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushik4475@gmail.com)
+
+<br>
+
+> 💡 **Open for freelance projects, collaborations, and full-time opportunities!**
+> 
+> *Let's build something amazing together* 🚀
 
 </div>
 
