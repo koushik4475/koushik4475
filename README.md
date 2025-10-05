@@ -102,7 +102,9 @@ me.say_hi()
 
 ## 🌱 Currently Learning
 
-<div align="center">
+<img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+<div align="left">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -124,6 +126,8 @@ me.say_hi()
 </tr>
 </table>
 </div>
+
+<br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -310,23 +314,28 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/koushik4475">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-</a>
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400&title_color=70a5fd&icon_color=bf91f3&text_color=9f9f9f&bg_color=1a1b27" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</picture>
 
 <br><br>
 
-<a href="https://github.com/koushik4475">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" style="max-width: 100%; height: auto;" />
-</a>
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=400&title_color=70a5fd&text_color=9f9f9f&bg_color=1a1b27" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=koushik4475&custom_title=Koushik's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true" alt="Contribution Graph" style="max-width: 100%; height: auto;" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koushik4475&custom_title=Koushik's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true" alt="Contribution Graph" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=koushik4475&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github-profile-trophy.vercel.app/?username=koushik4475&theme=tokyonight&no-frame=true&no-bg=true&row=3&column=2&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=koushik4475&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</picture>
 
 </div>
 
