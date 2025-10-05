@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I'm a **Computer Science & Design** student at Mysore University with a passion for building intelligent, scalable solutions. Currently working as a Full Stack Developer at **VSG Software Solutions**, I specialize in **AI/ML**, **web development**, **cybersecurity**, and **cross-platform applications**.
 
@@ -102,7 +102,7 @@ me.say_hi()
 
 ## 🌱 Currently Learning
 
-<img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Learning" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 - 🤖 Advanced **TensorFlow** & **PyTorch** for deep learning
 - 🔧 Backend optimization with **PHP** & **MySQL** 
@@ -119,7 +119,7 @@ me.say_hi()
 
 ## 🏆 Featured Projects
 
-<img align="right" alt="AI" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJoZGQ4ZDJnNnBxaXN0ZnBzYnVkYXY5N2J6Y2U5YmJocXpwcmZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
+<img align="right" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
 ### 🤖 [Visio-Nexus: AI Criminal Detection System](https://visio-nexus.netlify.app)
 *Mission: Impossible-inspired surveillance system*
@@ -251,7 +251,7 @@ me.say_hi()
 
 ## 💡 Fun Facts
 
-<img align="right" alt="Fun" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Fun" width="300" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 🛡️ **Ethical Hacking Enthusiast** – Exploring Kali Linux & penetration testing  
 🏋️ **Fitness Buff** – Regular gym-goer maintaining peak performance  
