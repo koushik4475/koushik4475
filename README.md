@@ -317,13 +317,15 @@ me.say_hi()
 
 <br><br>
 
+<br><br>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koushik4475&custom_title=Koushik's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true" alt="Contribution Graph" />
 
 <br><br>
 
 <picture>
-  <source media="(max-width: 768px)" srcset="https://github-profile-trophy.vercel.app/?username=koushik4475&theme=tokyonight&no-frame=true&no-bg=true&row=3&column=2&margin-w=15&margin-h=15" />
-  <img src="https://github-profile-trophy.vercel.app/?username=koushik4475&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=koushik4475&theme=tokyonight&hide_border=true&card_width=400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushik4475&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </picture>
 
 </div>
@@ -386,7 +388,11 @@ If you find my projects, tools, or open-source contributions useful, consider su
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=koushik4475&color=blueviolet&style=for-the-badge)
+<a href="https://github.com/koushik4475">
+  <img src="https://komarev.com/ghpvc/?username=koushik4475&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
+
+<br><br>
 
 ⭐️ From [@koushik4475](https://github.com/koushik4475) | **Building the future, one commit at a time** 🚀
 
