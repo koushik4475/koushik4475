@@ -352,6 +352,34 @@ me.say_hi()
 
 ---
 
+## 💖 Support My Open-Source Work
+
+<div align="center">
+
+If you find my projects, tools, or open-source contributions useful, consider supporting my development journey!
+
+<a href="https://github.com/sponsors/koushik4475">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Me on GitHub" height="35" />
+</a>
+&nbsp;&nbsp;
+<a href="https://buymeacoffee.com/koushikhy">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="35" />
+</a>
+&nbsp;&nbsp;
+<a href="https://paypal.me/koushikhy">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="35" />
+</a>
+
+<br><br>
+
+> *Your support helps keep open-source repositories maintained, ad-free, and continuously updated.* 🚀
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
 <div align="center">
 
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
