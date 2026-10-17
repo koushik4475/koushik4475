@@ -389,7 +389,7 @@ If you find my projects, tools, or open-source contributions useful, consider su
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 <a href="https://github.com/koushik4475">
-  <img src="https://komarev.com/ghpvc/?username=koushik4475&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=koushik4475&countColor=70a5fd&labelStyle=upper" alt="Profile Views" />
 </a>
 
 <br><br>
