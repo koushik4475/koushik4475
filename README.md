@@ -14,6 +14,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br>
+
+[![Total Stars Earned](https://img.shields.io/badge/Total%20Stars%20Earned-560%2B-F7DF1E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/koushik4475)
+[![Repositories](https://img.shields.io/badge/Active%20Repositories-50%2B-007ACC?style=for-the-badge&logo=git&logoColor=white)](https://github.com/koushik4475?tab=repositories)
+
 </div>
 
 ---
