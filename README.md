@@ -360,7 +360,9 @@ me.say_hi()
 
 If you find my projects, tools, or open-source contributions useful, consider supporting my development journey!
 
-<iframe src="https://github.com/sponsors/koushik4475/card" title="Sponsor koushik4475" height="225" width="600" style="border: 0;"></iframe>
+<a href="https://github.com/sponsors/koushik4475">
+  <img src="https://img.shields.io/badge/Sponsor%20koushik4475-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40" alt="Sponsor koushik4475" />
+</a>
 
 <br><br>
 
