@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="54" viewBox="0 0 900 54" role="img" aria-labelledby="t d">
+<title id="t">What I build</title>
+<desc id="d">Building offline-first apps, local-first web tools, workflow automation and developer tooling.</desc>
+<rect x="1" y="1" width="898" height="52" rx="12" fill="#0f1713" stroke="#2ea043" stroke-opacity=".45"/>
+<circle cx="26" cy="27" r="5" fill="#39d353"/>
+<g text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#b6f7c1">
+ <text x="462" y="33" opacity="1">Building offline-first apps with Flutter<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.2;.25;1" dur="12s" repeatCount="indefinite"/></text>
+ <text x="462" y="33" opacity="0">Shipping local-first tools with React + TypeScript<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.2;.25;.45;.5" dur="12s" repeatCount="indefinite"/></text>
+ <text x="462" y="33" opacity="0">Automating workflows and developer tooling<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.45;.5;.7;.75" dur="12s" repeatCount="indefinite"/></text>
+ <text x="462" y="33" opacity="0">Exploring AI/ML and computer vision<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.7;.75;1" dur="12s" repeatCount="indefinite"/></text>
+</g>
+</svg>
