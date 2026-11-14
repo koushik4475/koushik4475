@@ -1,36 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
-  <title id="title">Koushik HY — Feature Engineer and Product Builder</title>
-  <desc id="desc">A dark, neon-green developer banner with Koushik HY's name and focus areas.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset=".55" stop-color="#101b17"/>
-      <stop offset="1" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#39d353"/>
-      <stop offset="1" stop-color="#9be9a8"/>
-    </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#39d353" stroke-opacity=".07" stroke-width="1"/>
-    </pattern>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="1200" height="230" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="230" rx="18" fill="url(#grid)"/>
-  <path d="M0 195 C180 145 270 226 430 178 S700 136 840 184 S1070 225 1200 162" fill="none" stroke="#39d353" stroke-opacity=".32" stroke-width="2"/>
-  <path d="M0 207 C180 157 270 238 430 190 S700 148 840 196 S1070 237 1200 174" fill="none" stroke="#39d353" stroke-opacity=".12" stroke-width="1.2"/>
-  <rect x="54" y="52" width="54" height="54" rx="12" fill="#102719" stroke="#39d353" stroke-width="2"/>
-  <path d="M70 70L82 82L70 94M87 94H96" fill="none" stroke="#39d353" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)"/>
-  <text x="132" y="84" fill="#9be9a8" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" letter-spacing="2">FEATURE ENGINEER  /  PRODUCT BUILDER</text>
-  <text x="128" y="145" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">Koushik HY</text>
-  <text x="132" y="181" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="19">Building useful products, thoughtful experiences and dependable software.</text>
-  <g transform="translate(965 65)" fill="none" stroke="#39d353" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
-    <path d="M65 0L8 52L65 104M120 0L177 52L120 104M103 -5L82 109"/>
-  </g>
-  <circle cx="1137" cy="39" r="4" fill="#39d353" filter="url(#softGlow)"/>
-  <circle cx="1095" cy="171" r="3" fill="#9be9a8" filter="url(#softGlow)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+ <title id="title">Koushik HY — Feature Engineer and Product Builder</title>
+ <desc id="desc">A neon green developer profile banner featuring Koushik's Dubai photograph, his Feature Engineer role, product engineering and automation.</desc>
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080f0b"/><stop offset=".6" stop-color="#101d15"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39d353"/><stop offset="1" stop-color="#9be9a8"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#39d353" stroke-opacity=".065"/></pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="photoClip"><rect x="914" y="17" width="260" height="296" rx="20"/></clipPath>
+ </defs>
+ <rect width="1200" height="330" rx="20" fill="url(#bg)"/>
+ <rect width="1200" height="330" rx="20" fill="url(#grid)"/>
+ <path d="M0 286C170 235 280 306 440 271s276-43 398 0 250 40 362-8" fill="none" stroke="#39d353" stroke-opacity=".26" stroke-width="2"/>
+ <rect x="46" y="42" width="48" height="48" rx="12" fill="#102719" stroke="#39d353" stroke-width="2"/>
+ <path d="M59 55l13 12-13 13M77 80h7" fill="none" stroke="#39d353" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+ <text x="112" y="54" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#9be9a8">FEATURE ENGINEER  /  PRODUCT BUILDER</text>
+ <text x="48" y="147" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" fill="#f0f6fc">Koushik HY</text>
+ <rect x="50" y="174" width="5" height="44" rx="3" fill="#39d353"/>
+ <text x="73" y="192" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#e6edf3">Equiwiz Software Solutions</text>
+ <text x="73" y="222" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#c9d1d9">Building useful products, automating workflows, and turning ideas</text>
+ <text x="73" y="247" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#c9d1d9">into dependable software.</text>
+ <g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing=".7" fill="#d7f7dd">
+  <rect x="50" y="270" width="185" height="34" rx="17" fill="#132b1b" stroke="#2ea043"/><circle cx="67" cy="287" r="4" fill="#39d353"/><text x="80" y="291">PRODUCT ENGINEERING</text>
+  <rect x="246" y="270" width="133" height="34" rx="17" fill="#132b1b" stroke="#2ea043"/><circle cx="263" cy="287" r="4" fill="#39d353"/><text x="276" y="291">AUTOMATION</text>
+  <rect x="390" y="270" width="145" height="34" rx="17" fill="#132b1b" stroke="#2ea043"/><circle cx="407" cy="287" r="4" fill="#39d353"/><text x="420" y="291">OPEN SOURCE</text>
+  <rect x="546" y="270" width="142" height="34" rx="17" fill="#132b1b" stroke="#2ea043"/><circle cx="563" cy="287" r="4" fill="#39d353"/><text x="576" y="291">MOBILE + WEB</text>
+ </g>
+ <rect x="907" y="10" width="274" height="310" rx="27" fill="#39d353" fill-opacity=".10" stroke="#39d353" stroke-width="2"/>
+ <image x="914" y="17" width="260" height="296" preserveAspectRatio="xMidYMid meet" clip-path="url(#photoClip)" xlink:href="https://raw.githubusercontent.com/koushik4475/koushik4475/main/assets/profile-koushik.jpg"/>
+ <rect x="914" y="17" width="260" height="296" rx="20" fill="none" stroke="#9be9a8" stroke-opacity=".75"/>
+ <text x="1044" y="302" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="1.6" fill="#e6edf3">DUBAI  /  BURJ KHALIFA</text>
 </svg>
