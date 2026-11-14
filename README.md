@@ -7,16 +7,15 @@
 </td>
 <td width="70%" valign="middle">
 
-# Hi, I'm Koushik HY 👋
-
-### Feature Engineer · Product Builder · Open Source Enthusiast
-
-I build practical software, shape product experiences, and automate workflows. I enjoy working across mobile, web, and developer tools — turning ideas into useful, reliable products.
-
-<a href="https://github.com/koushik4475"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/koushikhy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" alt="LinkedIn" /></a>
-<a href="https://koushikhy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" alt="Portfolio" /></a>
-<a href="mailto:koushik4475@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" alt="Email" /></a>
+<h1>Hi, I'm Koushik HY 👋</h1>
+<h3>Feature Engineer · Product Builder · Open Source Enthusiast</h3>
+<p>I build practical software, shape product experiences, and automate workflows. I enjoy working across mobile, web, and developer tools — turning ideas into useful, reliable products.</p>
+<p>
+  <a href="https://github.com/koushik4475"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/koushikhy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" alt="LinkedIn" /></a>
+  <a href="https://koushikhy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" alt="Portfolio" /></a>
+  <a href="mailto:koushik4475@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" alt="Email" /></a>
+</p>
 
 </td>
 </tr>
