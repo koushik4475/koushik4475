@@ -1,0 +1,44 @@
+name: Refresh GitHub profile cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "13 0 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Generate local profile SVGs
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+
+      - name: Generate stats, contribution and language cards
+        uses: seijikohara/profile-cards-action@38ef607e10ff675448299c42932d2fda7ae1129c # v1.17.5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: koushik4475
+          cards: overview,contributions,languages
+          layout: combined
+          output-dir: assets
+          themes: light,dark
+          palette: purple
+          language-limit: 8
+          commit: true
+          commit-message: "chore(profile): refresh generated cards [skip ci]"
