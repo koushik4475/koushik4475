@@ -237,12 +237,7 @@ I also build experiments across mobile apps, web tools, workflow automation, and
 
 <img src="./assets/profile-footer.svg" width="100%" alt="Code is like humor. When you have to explain it, it's bad. — Cory House" />
 
-<a href="https://github.com/koushik4475">
-  <img src="https://komarev.com/ghpvc/?username=koushik4475&style=for-the-badge&color=39d353&label=PROFILE+VIEWS&base=5515" alt="Profile views" />
-</a>
-
 <br><br>
-
 ⭐️ From [@koushik4475](https://github.com/koushik4475) · **Building the future, one commit at a time** 🚀
 
 </div>
