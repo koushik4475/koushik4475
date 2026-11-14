@@ -1,27 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
 <title id="title">Koushik HY — Feature Engineer and Product Builder</title>
-<desc id="desc">A dark developer banner with neon green waves, code symbols, and Koushik HY's professional title.</desc>
+<desc id="desc">Animated dark developer banner with green and blue light, code glyphs, and Koushik HY's professional title.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07110b"/><stop offset=".55" stop-color="#0d1712"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
- <linearGradient id="titleGlow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39d353"/><stop offset=".55" stop-color="#7ee787"/><stop offset="1" stop-color="#b6f7c1"/></linearGradient>
- <radialGradient id="light" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#39d353" stop-opacity=".22"/><stop offset="1" stop-color="#39d353" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#39d353" stroke-opacity=".07" stroke-width="1"/></pattern>
- <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset=".52" stop-color="#101b2b"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+ <linearGradient id="titleGlow" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#39d353"><animate attributeName="stop-color" values="#39d353;#58a6ff;#bc8cff;#39d353" dur="9s" repeatCount="indefinite"/></stop>
+  <stop offset="1" stop-color="#58a6ff"><animate attributeName="stop-color" values="#58a6ff;#bc8cff;#39d353;#58a6ff" dur="9s" repeatCount="indefinite"/></stop>
+ </linearGradient>
+ <radialGradient id="greenGlow"><stop offset="0" stop-color="#39d353" stop-opacity=".25"/><stop offset="1" stop-color="#39d353" stop-opacity="0"/></radialGradient>
+ <radialGradient id="blueGlow"><stop offset="0" stop-color="#58a6ff" stop-opacity=".28"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#30363d" stroke-width=".7" opacity=".55"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="320" rx="18"/></clipPath>
 </defs>
-<rect width="1200" height="260" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="260" rx="20" fill="url(#grid)"/>
-<ellipse cx="160" cy="5" rx="250" ry="180" fill="url(#light)"/>
-<ellipse cx="1100" cy="260" rx="300" ry="190" fill="url(#light)"/>
-<path d="M0 214C135 157 215 240 346 203S573 159 705 203s267 52 495-22" fill="none" stroke="#39d353" stroke-opacity=".35" stroke-width="2"/>
-<path d="M0 226C135 169 215 252 346 215S573 171 705 215s267 52 495-10" fill="none" stroke="#39d353" stroke-opacity=".14" stroke-width="1.2"/>
-<path d="M85 57h42v42H85z" rx="10" fill="#102719" stroke="#39d353" stroke-width="2"/>
-<path d="M98 68l12 10-12 10M115 88h6" fill="none" stroke="#39d353" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="151" y="70" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="2.6" fill="#9be9a8">FEATURE ENGINEER  /  PRODUCT BUILDER</text>
-<text x="82" y="145" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="800" fill="#f0f6fc">Koushik <tspan fill="url(#titleGlow)">HY</tspan></text>
-<text x="87" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#c9d1d9">Building useful products, automating workflows, and turning ideas into dependable software.</text>
-<g transform="translate(927 57)" fill="none" stroke="#39d353" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity=".88">
- <path d="M61 0L8 51L61 102M132 0L185 51L132 102M112 -7L82 109"/>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="320" fill="url(#bg)"/>
+ <rect width="1200" height="320" fill="url(#grid)"/>
+ <circle r="230" fill="url(#blueGlow)"><animate attributeName="cx" values="180;420;180" dur="16s" repeatCount="indefinite"/><animate attributeName="cy" values="70;230;70" dur="12s" repeatCount="indefinite"/></circle>
+ <circle r="250" fill="url(#greenGlow)"><animate attributeName="cx" values="1010;760;1010" dur="18s" repeatCount="indefinite"/><animate attributeName="cy" values="245;75;245" dur="14s" repeatCount="indefinite"/></circle>
+ <g font-family="monospace" font-size="27" fill="#58a6ff" opacity=".25">
+  <text x="90" y="260">{ }<animate attributeName="y" values="260;228;260" dur="7s" repeatCount="indefinite"/></text>
+  <text x="1070" y="87">&lt;/&gt;<animate attributeName="y" values="87;116;87" dur="8s" repeatCount="indefinite"/></text>
+  <text x="970" y="270" fill="#39d353">=&gt;<animate attributeName="y" values="270;242;270" dur="6s" repeatCount="indefinite"/></text>
+  <text x="140" y="70" fill="#bc8cff">( )<animate attributeName="y" values="70;93;70" dur="9s" repeatCount="indefinite"/></text>
+ </g>
+ <g fill="#39d353" opacity=".65">
+  <circle cx="300" cy="320" r="2.5"><animate attributeName="cy" values="320;-12" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="10s" repeatCount="indefinite"/></circle>
+  <circle cx="520" cy="320" r="2"><animate attributeName="cy" values="320;-12" dur="12s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="12s" begin="2s" repeatCount="indefinite"/></circle>
+  <circle cx="780" cy="320" r="3"><animate attributeName="cy" values="320;-12" dur="11s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="11s" begin="1s" repeatCount="indefinite"/></circle>
+  <circle cx="900" cy="320" r="2"><animate attributeName="cy" values="320;-12" dur="13s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="13s" begin="4s" repeatCount="indefinite"/></circle>
+ </g>
+ <text x="600" y="150" text-anchor="middle" font-family="Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="78" font-weight="800" fill="url(#titleGlow)" letter-spacing="1">Koushik HY</text>
+ <text x="600" y="201" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" fill="#c9d1d9" letter-spacing="2.6">FEATURE ENGINEER  ·  PRODUCT BUILDER</text>
+ <line x1="420" y1="230" x2="780" y2="230" stroke="url(#titleGlow)" stroke-width="3" stroke-linecap="round" stroke-dasharray="360" stroke-dashoffset="360"><animate attributeName="stroke-dashoffset" values="360;0;0;-360" keyTimes="0;.35;.7;1" dur="6s" repeatCount="indefinite"/></line>
+ <rect x="792" y="118" width="6" height="40" fill="#39d353" opacity="1"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
 </g>
-<circle cx="1087" cy="38" r="4" fill="#39d353"/><circle cx="1129" cy="193" r="3" fill="#7ee787"/>
-<rect x="1" y="1" width="1198" height="258" rx="19" fill="none" stroke="#2ea043" stroke-opacity=".5"/>
+<rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#30363d" stroke-width="1.5"/>
 </svg>
