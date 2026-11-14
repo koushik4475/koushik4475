@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="240" viewBox="0 0 846 240" role="img" aria-labelledby="t d">
+<title id="t">GitHub profile analytics are being initialized</title>
+<desc id="d">This locally stored image will be replaced by automatically generated GitHub statistics cards.</desc>
+<rect width="846" height="240" rx="16" fill="#f6f8fa"/>
+<rect x="1" y="1" width="844" height="238" rx="15" fill="none" stroke="#d0d7de"/>
+<circle cx="423" cy="67" r="24" fill="#ddf4ff"/>
+<path d="M423 50v17l12 8" fill="none" stroke="#0969da" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="423" y="126" fill="#1f2328" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle">GitHub profile analytics</text>
+<text x="423" y="157" fill="#59636e" font-family="Arial, sans-serif" font-size="15" text-anchor="middle">Your stats, language breakdown and contribution history are being set up.</text>
+<text x="423" y="190" fill="#0969da" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="middle">Automatically refreshed by GitHub Actions • no third-party image API</text>
+</svg>
