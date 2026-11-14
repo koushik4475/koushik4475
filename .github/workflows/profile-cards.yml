@@ -20,7 +20,7 @@ concurrency:
 
 jobs:
   generate:
-    name: Generate local profile SVGs
+    name: Generate self-hosted stats and technology badges
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -29,16 +29,34 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Generate stats, contribution and language cards
+      - name: Generate separate stats cards and brand badges
         uses: seijikohara/profile-cards-action@38ef607e10ff675448299c42932d2fda7ae1129c # v1.17.5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: koushik4475
           cards: overview,contributions,languages
-          layout: combined
+          layout: split
           output-dir: assets
           themes: light,dark
-          palette: purple
+          palette: green
           language-limit: 8
+          badges: |
+            Dart
+            Flutter
+            TypeScript
+            JavaScript
+            React
+            Python
+            SQLite
+            MySQL
+            Vite
+            Vitest
+            Playwright
+            Docker
+            Git
+            GitHub Actions
+            Riverpod
+            Drift
+            IndexedDB
           commit: true
-          commit-message: "chore(profile): refresh generated cards [skip ci]"
+          commit-message: "chore(profile): refresh split cards and self-hosted badges [skip ci]"
