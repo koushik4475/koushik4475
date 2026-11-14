@@ -373,7 +373,7 @@ If you find my projects, tools, or open-source contributions useful, consider su
 
 ---
 
-<<div align="center">
+<div align="center"
 
 ### 💚 Thanks for stopping by
 
