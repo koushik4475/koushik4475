@@ -309,33 +309,13 @@ me.say_hi()
 <div align="center">
 
 <picture>
-  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400&title_color=70a5fd&icon_color=bf91f3&text_color=9f9f9f&bg_color=1a1b27" />
-  <img src="https://github-readme-stats.vercel.app/api?username=koushik4475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=400&title_color=70a5fd&text_color=9f9f9f&bg_color=1a1b27" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik4475&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</picture>
-
-<br><br>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koushik4475&custom_title=Koushik's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true" alt="Contribution Graph" />
-
-<br><br>
-
-<picture>
-  <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=koushik4475&theme=tokyonight&hide_border=true&card_width=400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushik4475&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards.dark.svg" />
+  <img src="./assets/cards.light.svg" alt="GitHub profile statistics, contribution streaks and language breakdown" width="100%" />
 </picture>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<sub>Updated automatically every day by GitHub Actions. These SVG cards are stored in this repository, so the profile does not depend on third-party image-rendering services.</sub>
 
 ---
 
