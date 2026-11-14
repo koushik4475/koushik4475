@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Koushik HY — Feature Engineer and Product Builder</title>
+  <desc id="desc">A dark, neon-green developer banner with Koushik HY's name and focus areas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".55" stop-color="#101b17"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39d353"/>
+      <stop offset="1" stop-color="#9be9a8"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#39d353" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="230" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="230" rx="18" fill="url(#grid)"/>
+  <path d="M0 195 C180 145 270 226 430 178 S700 136 840 184 S1070 225 1200 162" fill="none" stroke="#39d353" stroke-opacity=".32" stroke-width="2"/>
+  <path d="M0 207 C180 157 270 238 430 190 S700 148 840 196 S1070 237 1200 174" fill="none" stroke="#39d353" stroke-opacity=".12" stroke-width="1.2"/>
+  <rect x="54" y="52" width="54" height="54" rx="12" fill="#102719" stroke="#39d353" stroke-width="2"/>
+  <path d="M70 70L82 82L70 94M87 94H96" fill="none" stroke="#39d353" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)"/>
+  <text x="132" y="84" fill="#9be9a8" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" letter-spacing="2">FEATURE ENGINEER  /  PRODUCT BUILDER</text>
+  <text x="128" y="145" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">Koushik HY</text>
+  <text x="132" y="181" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="19">Building useful products, thoughtful experiences and dependable software.</text>
+  <g transform="translate(965 65)" fill="none" stroke="#39d353" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+    <path d="M65 0L8 52L65 104M120 0L177 52L120 104M103 -5L82 109"/>
+  </g>
+  <circle cx="1137" cy="39" r="4" fill="#39d353" filter="url(#softGlow)"/>
+  <circle cx="1095" cy="171" r="3" fill="#9be9a8" filter="url(#softGlow)"/>
+</svg>
