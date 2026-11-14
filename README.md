@@ -1,394 +1,164 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Koushik HY (@koushik4475)
-
-<div align="center">
-  
-<picture>
-  <source media="(max-width: 768px)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=350&lines=Full+Stack+Developer;AI+Engineer;Problem+Solver">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Engineer;Smart+Solutions+with+AI;Open+Source+Enthusiast" alt="Typing SVG" />
-</picture>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://koushikhy.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushikhy)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koushik4475)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushik4475@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-[![Total Stars](https://img.shields.io/github/stars/koushik4475?style=for-the-badge&logo=github&logoColor=white&color=yellow&label=Total%20Stars)](https://github.com/koushik4475)
-[![Repositories](https://img.shields.io/badge/Active%20Repositories-50%2B-007ACC?style=for-the-badge&logo=git&logoColor=white)](https://github.com/koushik4475?tab=repositories)
-
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-I'm a **Computer Science & Design** student at Mysore University with a passion for building intelligent, scalable solutions. Currently working as a Full Stack Developer at **VSG Software Solutions**, I specialize in **AI/ML**, **web development**, **cybersecurity**, and **cross-platform applications**.
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Koushik HY"
-        self.role = "Full Stack Developer & AI Engineer"
-        self.education = "BE in CS & Design | CGPA: 7.9"
-        self.company = "VSG Software Solutions PVT LTD"
-        self.location = "Mysore, India"
-        
-    def say_hi(self):
-        print("Let's build something amazing! 🚀")
-
-me = Developer()
-me.say_hi()
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 💻 Tech Stack
-
-<details open>
-<summary><b>🔹 Languages</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔹 AI/ML & Data Science</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔹 Frameworks & Databases</b></summary>
-<br>
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔹 Tools & Cybersecurity</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-    <img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-  </picture>
-</div>
-
-- 🤖 Advanced **TensorFlow** & **PyTorch** for deep learning
-- 🔧 Backend optimization with **PHP** & **MySQL** 
-- 🛡️ Ethical hacking with **Kali Linux**
-- 📱 Cross-platform mobile development
-- 🏗️ **System Design** & **Distributed Systems**
-- ⚡ **Concurrency** & performance optimization
-
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [Visio-Nexus: AI Criminal Detection](https://visio-nexus.netlify.app)
-*Mission: Impossible-inspired surveillance system*
-
-⚡ **3.5x speedup** (1.27 min → 22 sec) using multicore processing
-
-🔧 **Tech:** Python, OpenCV, NumPy, SQLite3, Tkinter
-
-🎯 **Features:** Real-time detection, criminal registration, email alerts
-
-</td>
-<td width="50%" valign="top">
-
-### 🌆 Green-Pulse
-*Smart City Waste Management*
-
-🏆 **Hack Kshetra National Hackathon Project**
-
-🤖 AI-powered public interaction system
-
-🗺️ **Tech:** Django, TomTom API, Tawk.to AI
-
-♻️ Real-time waste management solution
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Android Cipher
-*Encryption App*
-
-🔒 Secure **Blowfish Algorithm** encryption
-
-📱 Cross-platform mobile application
-
-🔑 Custom key-based decryption
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ Goo-India
-*Travel Platform*
-
-🌐 Full-stack travel application
-
-📊 Integrated survey system
-
-💻 **Tech:** HTML, CSS, JavaScript, PHP, MySQL
-
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 💼 Professional Experience
-
-**Full Stack Developer** @ VSG Software Solutions PVT LTD  
-📅 *March 2024 – April 2025 | Mysore, India*
-
-- ⚡ Optimized backend queries, reducing load times by **25%**
-- 🛠️ Built secure, scalable web modules
-- 🗃️ Implemented secure database practices
-- 🤝 Collaborated in **Agile sprints**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🎯 Core Competencies
-
-**Development Skills**
-- Data Structures & Algorithms
-- Object-Oriented Design
-- System Design & Distributed Systems
-- Concurrency & Performance Optimization
-
-**Technical Expertise**
-- AI/ML & Computer Vision
-- Full Stack Web Development
-- Mobile App Development
-- Cybersecurity & Ethical Hacking
-
-**Soft Skills**
-- Problem Solving & Creativity
-- Agile Development & Team Collaboration
-- Strong Work Ethic & Adaptability
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🤝 Open to Collaborate On
-
-🤖 **AI/ML Applications** • Computer vision, NLP, predictive models
-
-🏙️ **Smart City Solutions** • IoT, automation, urban tech
-
-🔐 **Cybersecurity Tools** • Ethical hacking utilities, security frameworks
-
-🌐 **Open-Source Projects** • Contributing to impactful projects
-
-📱 **Mobile Applications** • Cross-platform Android/iOS apps
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🏅 Achievements
-
-🎯 Selected for **Hack Kshetra National Hackathon** at VVCE, Mysore  
-💻 Competed in **Infothon 3.0 National Hackathon**  
-🥈 **2nd Place** – University SOE Treasure Hunt  
-🎓 **CGPA: 7.9** – BE in Computer Science & Design
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 📬 Let's Connect
-
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-### 📧 Email
-[koushik4475@gmail.com](mailto:koushik4475@gmail.com)
-
+<td width="30%" align="center" valign="middle">
+  <img src="./assets/profile-koushik.jpg" width="220" alt="Koushik HY in front of the Burj Khalifa in Dubai" />
 </td>
-<td align="center" width="33%">
+<td width="70%" valign="middle">
 
-### 🌐 Portfolio
-[koushikhy.netlify.app](https://koushikhy.netlify.app)
+# Hi, I'm Koushik HY 👋
 
-</td>
-<td align="center" width="33%">
+### Feature Engineer · Product Builder · Open Source Enthusiast
 
-### 📱 Phone
-[+91 96209 68968](tel:+919620968968)
+I build practical software, shape product experiences, and automate workflows. I enjoy working across mobile, web, and developer tools — turning ideas into useful, reliable products.
+
+<a href="https://github.com/koushik4475"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/koushikhy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" alt="LinkedIn" /></a>
+<a href="https://koushikhy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" alt="Portfolio" /></a>
+<a href="mailto:koushik4475@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" alt="Email" /></a>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushikhy)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koushik4475)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://koushikhy.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushik4475@gmail.com)
-
-<br>
-
-> 💡 **Open for freelance projects, collaborations, and full-time opportunities!**
-> 
-> *Let's build something amazing together* 🚀
-
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 📊 GitHub Stats
+## 💚 About Me
+
+I'm a **Feature Engineer at Equiwiz Software Solutions**, working on product engineering and building software that solves practical problems.
+
+- 🧩 Product features, user experience, and maintainable implementation
+- ⚙️ Workflow automation, integrations, and developer tooling
+- 📱 Mobile and cross-platform application development
+- 🌐 Web applications and local-first product experiences
+- 🧠 Interested in AI/ML, computer vision, and useful developer tools
+
+## 🛠️ Tech Stack
+
+**Languages & UI**
+
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=39d353)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=39d353)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39d353)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39d353)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39d353)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353)
+
+**Data, Testing & Delivery**
+
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=39d353)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=39d353)
+![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=39d353)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39d353)
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ [PageClock](https://github.com/koushik4475/pageclock)
+
+An offline-first reading focus tracker with focus sessions, timer experiences, themes, and data export.
+
+**Built with:** Flutter · Riverpod · Drift · SQLite
+
+[Repository](https://github.com/koushik4475/pageclock)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ [LifeDesk](https://github.com/koushik4475/lifedesk)
+
+A local-first personal command centre for tasks, routines, notes, planning, everyday money, and important dates.
+
+**Built with:** React · TypeScript · Vite · IndexedDB
+
+[Repository](https://github.com/koushik4475/lifedesk)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [SecondBrain](https://github.com/koushik4475/secondbrain)
+
+A local-first knowledge workspace for notes, ideas, meeting notes, learning material, code snippets, and bookmarks.
+
+**Built with:** React · TypeScript · IndexedDB
+
+[Repository](https://github.com/koushik4475/secondbrain)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [DevPulse](https://github.com/koushik4475/devpulse)
+
+A developer dashboard for monitoring public GitHub repositories, pull requests, issues, releases, and Actions runs.
+
+**Built with:** React · TypeScript · Vite · GitHub API
+
+[Repository](https://github.com/koushik4475/devpulse)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔔 [SubTrack](https://github.com/koushik4475/subtrack)
+
+An offline-first subscription and recurring-payment tracker with renewal views, spending estimates, and local data export.
+
+**Built with:** React · TypeScript · Vite · IndexedDB
+
+[Repository](https://github.com/koushik4475/subtrack)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 More experiments
+
+I also maintain smaller experiments and tools across web development, automation, mobile apps, and AI-assisted workflows.
+
+[Explore all repositories](https://github.com/koushik4475?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## 📈 GitHub Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/cards.dark.svg" />
-  <img src="./assets/cards.light.svg" alt="GitHub profile statistics, contribution streaks and language breakdown" width="100%" />
+  <img src="./assets/cards.light.svg" alt="GitHub overview, contribution activity, and language breakdown for Koushik HY" width="100%" />
 </picture>
 
 </div>
 
-<sub>Updated automatically every day by GitHub Actions. These SVG cards are stored in this repository, so the profile does not depend on third-party image-rendering services.</sub>
+<sub>These cards are generated and stored in this repository by GitHub Actions, with a daily refresh schedule.</sub>
 
----
-
-## 💡 Fun Facts
-
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-    <img align="right" alt="Fun" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-  </picture>
-</div>
-
-🛡️ **Ethical Hacking Enthusiast** – Exploring Kali Linux & penetration testing  
-🏋️ **Fitness Buff** – Regular gym-goer maintaining peak performance  
-🏸 **Badminton Player** – Recreational sports for work-life balance  
-🎬 **Movie Inspiration** – Visio-Nexus UI inspired by Mission: Impossible
-
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 💖 Support My Open-Source Work
+## 🤝 Let's Connect
 
 <div align="center">
 
-If you find my projects, tools, or open-source contributions useful, consider supporting my development journey!
-
-<a href="https://github.com/sponsors/koushik4475">
-  <img src="https://img.shields.io/badge/Sponsor%20koushik4475-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40" alt="Sponsor koushik4475" />
-</a>
+<a href="https://github.com/koushik4475">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/koushikhy">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://koushikhy.netlify.app">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="mailto:koushik4475@gmail.com">Email</a>
 
 <br><br>
-
-<a href="https://github.com/sponsors/koushik4475">
-  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Me on GitHub" height="35" />
-</a>
-&nbsp;&nbsp;
-<a href="https://buymeacoffee.com/koushikhy">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="35" />
-</a>
-&nbsp;&nbsp;
-<a href="https://paypal.me/koushikhy">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="35" />
-</a>
-
-<br><br>
-
-> *Your support helps keep open-source repositories maintained, ad-free, and continuously updated.* 🚀
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-
-### 💚 Thanks for stopping by
 
 > *“Code is like humor. When you have to explain it, it's bad.”*  
 > **— Cory House**
-
-<p>
-  <a href="https://github.com/koushik4475">🐙 <strong>GitHub</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/koushikhy">💼 <strong>LinkedIn</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://koushikhy.netlify.app">🌐 <strong>Portfolio</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:koushik4475@gmail.com">✉️ <strong>Email</strong></a>
-</p>
 
 <a href="https://github.com/koushik4475">
   <img src="https://komarev.com/ghpvc/?username=koushik4475&style=for-the-badge&color=39d353&label=PROFILE+VIEWS&base=5515" alt="Profile Views" />
