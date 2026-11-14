@@ -373,39 +373,29 @@ If you find my projects, tools, or open-source contributions useful, consider su
 
 ---
 
-<div align="center">
+<<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-neon-green.dark.svg" />
-  <img src="./assets/footer-neon-green.light.svg" alt="Code is like humor. When you have to explain it, it's bad. — Cory House" width="100%" />
-</picture>
+### 💚 Thanks for stopping by
 
-<br>
+> *“Code is like humor. When you have to explain it, it's bad.”*  
+> **— Cory House**
 
-<a href="https://github.com/koushik4475">
-  <img src="https://img.shields.io/badge/GitHub-koushik4475-0d1117?style=for-the-badge&logo=github&logoColor=39d353&labelColor=0d1117" alt="GitHub: koushik4475" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/koushikhy">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&labelColor=0d1117" alt="LinkedIn: koushikhy" />
-</a>
-&nbsp;
-<a href="https://koushikhy.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=netlify&logoColor=39d353&labelColor=0d1117" alt="Visit portfolio" />
-</a>
-&nbsp;
-<a href="mailto:koushik4475@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353&labelColor=0d1117" alt="Email koushik4475@gmail.com" />
-</a>
-
-<br><br>
+<p>
+  <a href="https://github.com/koushik4475">🐙 <strong>GitHub</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/koushikhy">💼 <strong>LinkedIn</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://koushikhy.netlify.app">🌐 <strong>Portfolio</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:koushik4475@gmail.com">✉️ <strong>Email</strong></a>
+</p>
 
 <a href="https://github.com/koushik4475">
   <img src="https://komarev.com/ghpvc/?username=koushik4475&style=for-the-badge&color=39d353&label=PROFILE+VIEWS&base=5515" alt="Profile Views" />
 </a>
 
-<br><br>
+<br>
 
-⭐️ From [@koushik4475](https://github.com/koushik4475) | **Building the future, one commit at a time** 🚀
+⭐️ From [@koushik4475](https://github.com/koushik4475) · **Building the future, one commit at a time** 🚀
 
 </div>
