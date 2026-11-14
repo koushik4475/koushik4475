@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title desc">
+<title id="title">Koushik HY — profile footer</title>
+<desc id="desc">Code is like humor. When you have to explain it, it's bad. — Cory House.</desc>
+<defs><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39d353" stop-opacity="0"/><stop offset=".5" stop-color="#39d353"/><stop offset="1" stop-color="#39d353" stop-opacity="0"/></linearGradient></defs>
+<path d="M0 24H1200" stroke="url(#line)" stroke-width="1.5"/>
+<text x="600" y="77" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="23" font-style="italic" font-weight="600" fill="#e6edf3">“Code is like humor. When you have to explain it, it's bad.”</text>
+<text x="600" y="106" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#39d353">— Cory House</text>
+<path d="M35 128C170 101 240 142 372 124S618 110 740 125s272 25 425-3" fill="none" stroke="#39d353" stroke-opacity=".3" stroke-width="1.5"/>
+</svg>
