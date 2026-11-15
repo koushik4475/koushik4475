@@ -1,0 +1,54 @@
+name: Build animated workspace banner
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "assets-source/workspace-gif-*.b64"
+      - ".github/workflows/build-workspace-banner.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: workspace-banner-build
+  cancel-in-progress: false
+
+jobs:
+  assemble:
+    name: Assemble and verify workspace GIF
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: true
+
+      - name: Assemble GIF from staged chunks
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p assets
+          cat assets-source/workspace-gif-*.b64 | tr -d '\r\n ' | base64 --decode > assets/workspace-hero.gif
+          file assets/workspace-hero.gif
+          test "$(file -b assets/workspace-hero.gif | cut -c1-6)" = "GIF im"
+
+      - name: Verify exact approved GIF
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "914cf4ff39a30e05de6062612fcc6eba3f5d130177425d6392fb7ef2bcf3879e  assets/workspace-hero.gif" | sha256sum --check -
+
+      - name: Commit verified GIF and remove staging files
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf assets-source
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/workspace-hero.gif assets-source
+          git commit -m "chore(profile): publish verified animated workspace banner"
+          git push
