@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/workspace-hero.svg" width="100%" alt="Koushik HY — Feature Engineer and Product Builder, in a neon-lit developer workspace" />
+<img src="./assets/workspace-hero-v2-84fe469.svg?v=84fe469" width="100%" alt="Koushik HY — Feature Engineer and Product Builder, in a grounded developer workspace with no floating accessories" />
 
 <img src="./assets/ambient-accent.svg" width="100%" alt="" />
 
