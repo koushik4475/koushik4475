@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img" aria-labelledby="t d">
+<title id="t">Ambient workspace accent</title>
+<desc id="d">A subtle green light travels along a thin line beneath the developer workspace banner.</desc>
+<defs>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39d353" stop-opacity="0"/><stop offset=".5" stop-color="#39d353" stop-opacity=".35"/><stop offset="1" stop-color="#39d353" stop-opacity="0"/></linearGradient>
+ <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39d353" stop-opacity="0"/><stop offset=".5" stop-color="#b6f7c1"/><stop offset="1" stop-color="#39d353" stop-opacity="0"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<path d="M22 17H1178" stroke="url(#base)" stroke-width="2" stroke-linecap="round"/>
+<path d="M-220 17H110" stroke="url(#pulse)" stroke-width="4" stroke-linecap="round" filter="url(#blur)" opacity=".8"><animate attributeName="x1" values="-220;1310" dur="8s" repeatCount="indefinite"/><animate attributeName="x2" values="110;1640" dur="8s" repeatCount="indefinite"/></path>
+<circle cx="600" cy="17" r="2.5" fill="#39d353" opacity=".65"><animate attributeName="opacity" values=".25;.85;.25" dur="4s" repeatCount="indefinite"/></circle>
+</svg>

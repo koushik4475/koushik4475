@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Koushik HY — Feature Engineer and Product Builder</title>
+<desc id="desc">A custom dark developer workspace illustration with a glowing monitor, code editor, desk lamp, books, plant and green ambient lighting.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07100b"/><stop offset=".58" stop-color="#101b17"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+ <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1720"/><stop offset="1" stop-color="#06110d"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39d353"/><stop offset="1" stop-color="#9be9a8"/></linearGradient>
+ <radialGradient id="ambient"><stop offset="0" stop-color="#39d353" stop-opacity=".35"/><stop offset="1" stop-color="#39d353" stop-opacity="0"/></radialGradient>
+ <radialGradient id="blue"><stop offset="0" stop-color="#58a6ff" stop-opacity=".16"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8b949e" stroke-opacity=".07"/></pattern>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="10"/></filter>
+ <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="1200" height="400" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="400" rx="20" fill="url(#grid)"/>
+<circle cx="850" cy="245" r="290" fill="url(#ambient)"><animate attributeName="opacity" values=".55;1;.55" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="1100" cy="55" r="230" fill="url(#blue)"><animate attributeName="opacity" values=".5;.9;.5" dur="10s" repeatCount="indefinite"/></circle>
+<!-- Left identity -->
+<rect x="62" y="54" width="400" height="40" rx="20" fill="#0b2414" stroke="#2ea043" stroke-opacity=".8"/>
+<circle cx="84" cy="74" r="5" fill="#39d353"/>
+<text x="102" y="80" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="1.6" fill="#9be9a8">PRODUCT ENGINEERING  /  DEV TOOLS</text>
+<text x="62" y="178" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800" fill="#f0f6fc">Koushik <tspan fill="url(#green)">HY</tspan></text>
+<text x="67" y="226" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" letter-spacing="2" fill="#e6edf3">FEATURE ENGINEER  ·  PRODUCT BUILDER</text>
+<rect x="67" y="254" width="5" height="64" rx="2" fill="#39d353"/>
+<text x="88" y="276" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#c9d1d9">Building useful products, automating workflows,</text>
+<text x="88" y="305" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#c9d1d9">and turning ideas into dependable software.</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing=".7">
+ <rect x="66" y="338" width="116" height="34" rx="17" fill="#102719" stroke="#2ea043"/><circle cx="83" cy="355" r="4" fill="#39d353"/><text x="97" y="359" fill="#d7f7dd">BUILD</text>
+ <rect x="194" y="338" width="148" height="34" rx="17" fill="#102719" stroke="#2ea043"/><circle cx="211" cy="355" r="4" fill="#39d353"/><text x="225" y="359" fill="#d7f7dd">AUTOMATE</text>
+ <rect x="354" y="338" width="104" height="34" rx="17" fill="#102719" stroke="#2ea043"/><circle cx="371" cy="355" r="4" fill="#39d353"/><text x="385" y="359" fill="#d7f7dd">SHIP</text>
+ <rect x="470" y="338" width="126" height="34" rx="17" fill="#102719" stroke="#2ea043"/><circle cx="487" cy="355" r="4" fill="#39d353"/><text x="501" y="359" fill="#d7f7dd">IMPROVE</text>
+</g>
+<!-- Workspace desk -->
+<ellipse cx="925" cy="330" rx="315" ry="40" fill="#39d353" opacity=".18" filter="url(#glow)"/>
+<path d="M600 305H1190L1200 335H586Z" fill="#1c241f" stroke="#53645a" stroke-opacity=".65"/>
+<path d="M604 308H1190" stroke="#ba8a56" stroke-opacity=".4" stroke-width="3"/>
+<path d="M660 336L647 400M1138 336L1158 400" stroke="#202a25" stroke-width="14"/>
+<!-- Books and notebook -->
+<rect x="612" y="279" width="135" height="17" rx="3" fill="#6b5039"/>
+<rect x="622" y="262" width="126" height="16" rx="3" fill="#293a2e"/>
+<rect x="636" y="245" width="112" height="15" rx="3" fill="#876b4e"/>
+<path d="M622 269H738M614 286H741" stroke="#d6ba8b" stroke-opacity=".4"/>
+<!-- Desk lamp -->
+<path d="M770 280L796 175L861 122" fill="none" stroke="#414d48" stroke-width="10" stroke-linecap="round"/>
+<circle cx="796" cy="175" r="8" fill="#64766d" stroke="#a7b9ad"/>
+<path d="M845 112L913 107L892 149L821 155Z" fill="#313c36" stroke="#84958a" stroke-width="2"/>
+<path d="M832 151L895 147L879 183L848 183Z" fill="#d6b47a" opacity=".2"/>
+<path d="M840 177L881 177" stroke="#e8c58b" stroke-width="3" opacity=".7"/>
+<!-- Trailing plant -->
+<path d="M1122 0C1118 35 1082 42 1103 84C1120 114 1074 132 1093 159" fill="none" stroke="#47794d" stroke-width="5"/>
+<g fill="#2c8a45" stroke="#77bd72" stroke-opacity=".55">
+ <path d="M1113 45C1074 31 1064 6 1084 5C1106 7 1118 25 1113 45Z"/>
+ <path d="M1103 91C1068 78 1057 55 1076 53C1098 56 1110 71 1103 91Z"/>
+ <path d="M1095 135C1060 123 1052 99 1072 96C1091 99 1103 116 1095 135Z"/>
+ <path d="M1127 40C1149 7 1172 8 1167 27C1161 46 1144 50 1127 40Z"/>
+ <path d="M1116 86C1143 56 1166 60 1158 78C1148 95 1131 98 1116 86Z"/>
+</g>
+<!-- Monitor with subtle ambient screen glow -->
+<rect x="903" y="72" width="258" height="181" rx="12" fill="#07110d" stroke="#75847c" stroke-width="3"/>
+<rect x="913" y="82" width="238" height="161" rx="6" fill="url(#screen)"/>
+<rect x="913" y="82" width="238" height="161" rx="6" fill="#39d353" opacity=".07"><animate attributeName="opacity" values=".03;.10;.03" dur="7s" repeatCount="indefinite"/></rect>
+<circle cx="1033" cy="76" r="2.5" fill="#39d353"/>
+<g stroke-linecap="round" stroke-width="3">
+ <path d="M929 101H989M929 115H1031M929 129H1002M929 143H1065M929 157H1019M929 171H1082M929 185H1022M929 199H1060M929 213H1004" stroke="#4b6a58" opacity=".8"/>
+ <path d="M940 101H966M958 115H984M947 129H974M971 143H1001M948 157H978M990 171H1014M947 185H974M968 199H996M946 213H972" stroke="#39d353" opacity=".95"/>
+ <path d="M977 101H1004M995 129H1024M1010 157H1041M1022 185H1050M1006 213H1040" stroke="#58a6ff" opacity=".75"/>
+</g>
+<path d="M1028 253V274M1035 253V274" stroke="#75847c" stroke-width="8"/>
+<path d="M981 277H1082L1100 287H964Z" fill="#46564c" stroke="#7c8f82"/>
+<!-- Keyboard -->
+<rect x="882" y="294" width="241" height="17" rx="6" fill="#111a15" stroke="#65766b"/>
+<g stroke="#53685a" stroke-width="2">
+ <path d="M896 300H1108M902 306H1103M916 294V310M940 294V310M964 294V310M988 294V310M1012 294V310M1036 294V310M1060 294V310M1084 294V310"/>
+</g>
+<!-- Mug -->
+<rect x="792" y="275" width="42" height="43" rx="8" fill="#172b20" stroke="#6d9272" stroke-width="2"/>
+<path d="M834 286C855 284 853 309 834 309" fill="none" stroke="#6d9272" stroke-width="5"/>
+<path d="M803 267C794 256 811 250 803 238M817 267C809 257 826 250 819 239" fill="none" stroke="#b9c3bb" stroke-opacity=".38" stroke-width="3" stroke-linecap="round"><animate attributeName="opacity" values=".15;.55;.15" dur="5s" repeatCount="indefinite"/></path>
+<!-- Headphones -->
+<path d="M1126 166C1126 112 1190 112 1190 166" fill="none" stroke="#4c5c54" stroke-width="12" stroke-linecap="round"/>
+<rect x="1116" y="158" width="20" height="48" rx="9" fill="#17231c" stroke="#789184" stroke-width="2"/>
+<rect x="1180" y="158" width="20" height="48" rx="9" fill="#17231c" stroke="#789184" stroke-width="2"/>
+<!-- Floating ambient particles -->
+<g fill="#39d353">
+ <circle cx="830" cy="52" r="2"><animate attributeName="cy" values="52;41;52" dur="6s" repeatCount="indefinite"/></circle>
+ <circle cx="1191" cy="48" r="3" opacity=".6"><animate attributeName="opacity" values=".2;.8;.2" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="867" cy="225" r="2" opacity=".7"><animate attributeName="opacity" values=".15;.75;.15" dur="5s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="1" y="1" width="1198" height="398" rx="19" fill="none" stroke="#2ea043" stroke-opacity=".55"/>
+</svg>
