@@ -1,3 +1,9 @@
+# Koushik HY | Feature Engineer, Full-Stack Developer & Product Builder
+
+Koushik HY is a Feature Engineer at Equiwiz Software Solutions who builds mobile applications, offline-first products, local-first web tools, developer dashboards, workflow automation, and practical AI/ML experiments. This profile highlights projects including PageClock, LifeDesk, SecondBrain, DevPulse, and SubTrack, with an emphasis on product engineering, Flutter, TypeScript, React, Python, and reliable software delivery.
+
+---
+
 <div align="center">
 
 <img src="./assets/profile-header.svg" alt="Koushik HY — Feature Engineer and Product Builder" width="100%" />
@@ -7,7 +13,7 @@
 <img src="./assets/typing-lines.svg" alt="Building offline-first apps, shipping local-first tools, automating workflows, and exploring AI/ML" width="90%" />
 
 <p>
-  <a href="https://github.com/koushik4475"><img src="./assets/social-github.svg" height="44" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/hy_koushik/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="44" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/koushikhy"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn" /></a>
   <a href="https://koushikhy.netlify.app"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio" /></a>
   <a href="mailto:koushik4475@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
@@ -20,6 +26,10 @@
 </div>
 
 ---
+
+<h1 align="center">Koushik HY — Feature Engineer & Product Builder</h1>
+
+<p align="center">Building offline-first apps, local-first web products, developer tools, and practical AI/ML projects.</p>
 
 <h2 align="center">👋 About Me</h2>
 
@@ -229,7 +239,7 @@ I also build experiments across mobile apps, web tools, workflow automation, and
 **Open to:** product engineering · open-source collaboration · developer tooling
 
 <p>
-  <a href="https://github.com/koushik4475"><img src="./assets/social-github.svg" height="44" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/hy_koushik/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="44" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/koushikhy"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn" /></a>
   <a href="https://koushikhy.netlify.app"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio" /></a>
   <a href="mailto:koushik4475@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
