@@ -21,7 +21,11 @@
 
 ---
 
-## 👋 About Me
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40e263f8-7eb2-470d-bb85-a263b4935c69" width="230" alt="Koushik HY in Dubai, with the Burj Khalifa in the background" />
+</p>
 
 I'm a **Feature Engineer at Equiwiz Software Solutions**. I build product features that are usable, maintainable, and dependable, and I like turning rough ideas into tools people actually use.
 
@@ -39,10 +43,6 @@ const koushik = {
   openTo: ["product work", "open source", "developer tooling"],
 };
 ```
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/40e263f8-7eb2-470d-bb85-a263b4935c69" width="230" alt="Koushik HY in Dubai, with the Burj Khalifa in the background" />
-</p>
 
 ---
 
