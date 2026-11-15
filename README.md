@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/workspace-hero-photo-v3.jpg?v=3" width="100%" alt="Photorealistic neon-lit developer workspace banner for Koushik HY" />
+<img src=" <img width="1000" height="333" alt="koushik-workspace-banner-v2-ambient" src="https://github.com/user-attachments/assets/9d0f6e85-6245-486e-bde7-c7f8132343e2" />
+"
+  width="100%" alt="Photorealistic neon-lit developer workspace banner for Koushik HY" />
 
 <img src="./assets/ambient-accent.svg" width="100%" alt="" />
 
