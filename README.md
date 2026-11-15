@@ -23,8 +23,6 @@
 
 ## 👋 About Me
 
-
-
 I'm a **Feature Engineer at Equiwiz Software Solutions**. I build product features that are usable, maintainable, and dependable, and I like turning rough ideas into tools people actually use.
 
 - 🧩 Product engineering, usability, and maintainable implementation
