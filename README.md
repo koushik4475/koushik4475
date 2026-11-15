@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <strong>Feature Engineer at Equiwiz Software Solutions</strong><br/>
+  <strong>-----------------------------------------</strong><br/>
   Building practical product features and dependable software.
 </p>
 
