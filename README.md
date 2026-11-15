@@ -21,6 +21,10 @@
 
 ---
 
+<h1 align="center">Koushik HY | Feature Engineer & Product Builder</h1>
+
+<p align="center">Feature Engineer building offline-first mobile apps, local-first web products, developer tools, workflow automation, and practical AI/ML projects.</p>
+
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
