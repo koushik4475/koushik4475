@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
 <title id="title">Koushik HY — Feature Engineer and Product Builder</title>
-<desc id="desc">A custom dark developer workspace illustration with a glowing monitor, code editor, desk lamp, books, plant and green ambient lighting.</desc>
+<desc id="desc">A custom dark developer workspace illustration with a glowing monitor, code editor, desk lamp, books, plant and green ambient lighting. Subtle ambient pulses animate the scene.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07100b"/><stop offset=".58" stop-color="#101b17"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
  <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1720"/><stop offset="1" stop-color="#06110d"/></linearGradient>
@@ -76,10 +76,7 @@
 <rect x="792" y="275" width="42" height="43" rx="8" fill="#172b20" stroke="#6d9272" stroke-width="2"/>
 <path d="M834 286C855 284 853 309 834 309" fill="none" stroke="#6d9272" stroke-width="5"/>
 <path d="M803 267C794 256 811 250 803 238M817 267C809 257 826 250 819 239" fill="none" stroke="#b9c3bb" stroke-opacity=".38" stroke-width="3" stroke-linecap="round"><animate attributeName="opacity" values=".15;.55;.15" dur="5s" repeatCount="indefinite"/></path>
-<!-- Headphones -->
-<path d="M1126 166C1126 112 1190 112 1190 166" fill="none" stroke="#4c5c54" stroke-width="12" stroke-linecap="round"/>
-<rect x="1116" y="158" width="20" height="48" rx="9" fill="#17231c" stroke="#789184" stroke-width="2"/>
-<rect x="1180" y="158" width="20" height="48" rx="9" fill="#17231c" stroke="#789184" stroke-width="2"/>
+<!-- Clear workspace corner: no floating accessories -->
 <!-- Floating ambient particles -->
 <g fill="#39d353">
  <circle cx="830" cy="52" r="2"><animate attributeName="cy" values="52;41;52" dur="6s" repeatCount="indefinite"/></circle>
