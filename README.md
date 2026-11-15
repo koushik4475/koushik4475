@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-<img align="right" width="180" src="https://github.com/user-attachments/assets/40e263f8-7eb2-470d-bb85-a263b4935c69" alt="Koushik HY in Dubai, with the Burj Khalifa in the background" />
+
 
 I'm a **Feature Engineer at Equiwiz Software Solutions**. I build product features that are usable, maintainable, and dependable, and I like turning rough ideas into tools people actually use.
 
@@ -42,7 +42,9 @@ const koushik = {
 };
 ```
 
-<br clear="right" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40e263f8-7eb2-470d-bb85-a263b4935c69" width="230" alt="Koushik HY in Dubai, with the Burj Khalifa in the background" />
+</p>
 
 ---
 
