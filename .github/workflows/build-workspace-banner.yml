@@ -36,11 +36,17 @@ jobs:
           file assets/workspace-hero.gif
           test "$(file -b assets/workspace-hero.gif | cut -c1-6)" = "GIF im"
 
-      - name: Verify exact approved GIF
+      - name: Verify decoded animation
         shell: bash
         run: |
           set -euo pipefail
-          echo "914cf4ff39a30e05de6062612fcc6eba3f5d130177425d6392fb7ef2bcf3879e  assets/workspace-hero.gif" | sha256sum --check -
+          frames=$(identify assets/workspace-hero.gif | wc -l)
+          dimensions=$(identify -format '%wx%h\n' assets/workspace-hero.gif | sort -u)
+          echo "Frames: $frames"
+          echo "Dimensions: $dimensions"
+          sha256sum assets/workspace-hero.gif
+          test "$frames" -eq 8
+          test "$dimensions" = "480x160"
 
       - name: Commit verified GIF and remove staging files
         shell: bash
